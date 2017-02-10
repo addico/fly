@@ -49,7 +49,7 @@ defmodule Fly.Mixfile do
       {:porcelain, "~> 2.0.3"},
       {:plug, "~> 1.3.0"},
       {:tesla, "~> 0.5.0"},
-      {:hackney, "~> 1.6.3"},
+      {:hackney, "~> 1.6"},
       {:lru_cache, "~> 0.1.1"},
 
       # Docs dependencies
